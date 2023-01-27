@@ -1,5 +1,7 @@
 # EX No.3.2. CREATE 3D MODEL FROM ORTHOGRAPHIC PROJECTION
-## DATE:
+## DATE:27.01.2023
+## NAME:SACHIN SAGAR S
+## REG.NO:22009268
 ## AIM:
 To create a 3D model from given orthographic projection.
 
@@ -42,6 +44,8 @@ To create a 3D model from given orthographic projection.
 ![image](https://user-images.githubusercontent.com/113594316/198823540-38a1b79a-1f68-4876-add9-adf59b98b386.png)
 
 ## OUTPUT:
+![EX 3 2](https://user-images.githubusercontent.com/119475862/215094496-67279f9d-4e3c-4517-88eb-32c59a904cb7.png)
+
 
 ## RESULT:
 Thus, 3D model is created from orthographic projection.
